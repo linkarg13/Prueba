@@ -1,0 +1,34 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="TV1",SR.REGIO
+http://srregio.net/23ma/tv.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="TV2",SR.REGIO 
+http://srregio.net/23ma/tv2.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="TV3",SR.REGIO 
+http://srregio.net/23ma/tv3.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="TV4",SR.REGIO
+http://srregio.net/23ma/tv4.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="TV5",SR.REGIO
+http://srregio.net/23ma/tv5.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="T6",SR.REGIO
+http://srregio.net/23ma/tv6.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="TV7",SR.REGIO
+http://srregio.net/23ma/tv7.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="peliculas",Peliculas sr
+http://srregio.net/23ma/regioflix.m3u
+
+
+
+
+
+
